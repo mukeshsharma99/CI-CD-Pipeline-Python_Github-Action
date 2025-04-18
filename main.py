@@ -14,6 +14,6 @@ def train(X_train, y_train):
     pipeline.fit(X_train, y_train)
     return pipeline
 
-def predict(X):
+def predict(X)
     return pipeline.predict(X)
 
