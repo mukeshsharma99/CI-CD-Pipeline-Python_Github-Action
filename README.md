@@ -58,5 +58,5 @@ graph TD;
     A[Push Code to GitHub] --> B[Run GitHub Actions];
     B --> C[Run Unit Tests];
     C --> D[Build Docker Image];   
-    D --> E[Deploy to Cloud Platform];
+    D --> E[Deploy to Cloud Platform]; 
   
