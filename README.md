@@ -2,7 +2,7 @@
 
 A modern approach to automate the development workflow — from writing code to deploying your application in production!
 
----
+--- 
 
 ## 💡 What is CI/CD?
 
