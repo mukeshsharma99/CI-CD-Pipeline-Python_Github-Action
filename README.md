@@ -8,7 +8,7 @@ A modern approach to automate the development workflow — from writing code to 
 
 **CI/CD** = **Continuous Integration** + **Continuous Deployment (or Delivery)**
 
-Automates:
+Automates:  
 
 - 🧪 Testing  
 - 🛠️ Building  
