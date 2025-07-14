@@ -6,7 +6,7 @@ A modern approach to automate the development workflow — from writing code to 
 
 ## 💡 What is CI/CD?
 
-**CI/CD** = **Continuous Integration** + **Continuous Deployment (or Delivery)**
+**CI/CD** = **Continuous Integration** + **Continuous Deployment (or Delivery)** 
 
 Automates:  
 
